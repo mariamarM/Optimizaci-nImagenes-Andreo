@@ -1,4 +1,4 @@
-import ImageOptimizer from 'ImageOptimizedr';
+import ImageOptimizer from './ImageOptimizedr';
 const Ejercicio1 = () => {
  return (
  <div className="p-6">

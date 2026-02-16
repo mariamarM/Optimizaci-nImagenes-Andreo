@@ -1,4 +1,4 @@
-import FigmaComponent from "FigmaComponent.tsx";
+import FigmaComponent from "./FigmaComponent";
 const Ejercicio4 = () => {
  return (
  <div className="p-6">
