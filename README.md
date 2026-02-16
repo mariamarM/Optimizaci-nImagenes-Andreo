@@ -71,3 +71,8 @@ export default defineConfig([
   },
 ])
 ```
+- El tutorial que hay es el ejercicio 5 final con todos los ejercicios pruebos recopilados. Asi esta actualmente la organización de las carpetas.
+- <img width="283" height="705" alt="image" src="https://github.com/user-attachments/assets/19eb86a5-70f7-4147-acc5-f390de72952a" />
+
+<img width="792" height="840" alt="image" src="https://github.com/user-attachments/assets/16e7ee40-8ccc-446b-9021-e8f31ffc9db0" />
+
